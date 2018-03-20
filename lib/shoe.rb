@@ -14,6 +14,9 @@ class Shoe
     self.condition = "new"
   end
   
-  
+  def brand=(brand)
+    if BRANDS.include?(brand) == false
+      BRANDS << brand
+      
   
 end
