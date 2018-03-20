@@ -18,6 +18,4 @@ class Shoe
     if BRANDS.include?(brand) == false
       BRANDS << brand
     end
-      
-  
 end
