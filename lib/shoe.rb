@@ -1,3 +1,3 @@
-class 
+class Shoe
   
 end
